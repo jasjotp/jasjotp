@@ -20,7 +20,7 @@ I’m passionate about turning raw data into meaningful action — whether it's 
   • Built a Random Forest Classifier (**98.7% accuracy**) to predict how often a video will trend based on features like tags, likes, and comments.
 
 - [🌎 World Layoffs Data Analysis](https://github.com/jasjotp/world_layoffs_data_analysis)  
-  **SQL, Window Functions, Data Cleaning**  
+  **SQL, Data Cleaning, Exploratory Data Analysis**  
   • Performed full data cleaning and transformation of a global layoffs dataset.  
   • Conducted exploratory analysis to uncover trends by country, industry, stage, and time.  
   • Built logic to identify companies at high risk using layoffs per funding raised and operational patterns.
