@@ -1,14 +1,26 @@
 ## 👋 Hi, I'm Jasjot Parmar
 
-I'm an aspiring data scientist with hands-on experience in **Python**, **SQL**, **Tableau**, and **PySpark**. Currently, I work as a **Data Analyst in healthcare**, where I support data-driven decision making by building dashboards, cleaning complex datasets, and uncovering insights that improve patient outcomes and operational efficiency.
+I'm an aspiring data engineer with hands-on experience in **Python**, **SQL**, **Tableau**, and **PySpark**. Currently, I work as a **Data Analyst in healthcare**, where I support data-driven decision making by building dashboards, cleaning complex datasets, and uncovering insights that improve patient outcomes and operational efficiency.
 
-In Fall 2025, I will be starting my **Master of Science in Analytics** at the **Georgia Institute of Technology**, continuing my journey toward becoming a full-fledged data scientist.
+In Fall 2025, I will be starting my **Master of Science in Analytics** at the **Georgia Institute of Technology**, continuing my journey toward becoming a full-fledged data engineer.
 
 I’m passionate about turning raw data into meaningful action — whether it's optimizing ETL processes, uncovering patterns in complex health data, or predicting real-world outcomes with machine learning.
 
 
 ### 🔍 Featured Projects
 
+- [📊 Reddit Data Engineering Trends Pipeline](https://github.com/jasjotp/reddit-tldr-dataengineering)  
+  **Python, Apache Airflow, Word2Vec, KMeans, Hugging Face, AWS S3**  
+  • Built a daily Airflow ETL pipeline to ingest and process posts from `r/dataengineering`, enabling continuous topic discovery and trend analysis.  
+  • Applied Word2Vec, KMeans clustering, and sentiment analysis (DistilBERT) to uncover high-engagement themes and generate post-level recommendations.  
+  • Uploaded daily insights, cluster visualizations, and enriched post data to Amazon S3, supporting exploration of trending data engineering discussions.
+
+- [📊 Reddit Data Engineering Trends Pipeline](https://github.com/jasjotp/Reddit-DataEngineering-Trends)  
+  **Python, Apache Airflow, Word2Vec, KMeans, Hugging Face, AWS S3**  
+  • Built a daily Airflow ETL pipeline to ingest and process posts from `r/dataengineering`, enabling continuous topic discovery and trend analysis.  
+  • Applied Word2Vec, KMeans clustering, and sentiment analysis (DistilBERT) to uncover high-engagement themes and generate post-level recommendations.  
+  • Uploaded daily insights, cluster visualizations, and enriched post data to Amazon S3, supporting exploration of trending data engineering discussions
+  
 - [🧠 Automated Classification and Severity Grading of Lung Cancer](https://github.com/jasjotp/Lung-Cancer-Classification-and-Detection)  
   **Python, PyTorch, OpenCV, scikit-learn**  
   • Improved lung cancer classification accuracy to **95%** by developing a Convolutional Neural Network (CNN) using PyTorch, automating the analysis of microscopic lung tissue images to assist in early cancer detection.  
