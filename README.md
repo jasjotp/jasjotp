@@ -20,6 +20,13 @@ I’m passionate about turning raw data into meaningful action — whether it's 
   • Improved lung cancer classification accuracy to **95%** by developing a Convolutional Neural Network (CNN) using PyTorch, automating the analysis of microscopic lung tissue images to assist in early cancer detection.  
   • Engineered a cancer cell detection algorithm using OpenCV, enabling analysis of **1,000+ X-ray images** with **98% accuracy**.
 
+- [🛒 Amazon Customer Review Sentiment Analysis](https://github.com/jasjotp/amazon_customer_review_sentiment_analysis)  
+  **Python, VADER, DistilBERT, Matplotlib, Seaborn, NLP**  
+  • Analyzed **568K+ Amazon Fine Food reviews (1999–2012)** using both rule-based (VADER) and transformer-based (DistilBERT) models to uncover trends in customer satisfaction.  
+  • Built quarterly time-series visualizations and computed sentiment-star rating correlations, identifying that **DistilBERT detects declining satisfaction** over time, while **VADER shows stable or increasing positivity**.  
+  • Achieved a comprehensive comparison of model performance, showing **only 22.7% agreement** and a **Pearson correlation of 0.11**, highlighting their complementary nature.  
+  • Extracted word clouds and top token frequencies by rating level to expose key themes and pain points, enabling data-driven product feedback analysis.
+
 - [📈 YouTube Trending Video Analysis and Predictive Modelling](https://github.com/jasjotp/Predicting-YouTube-TrendingVideo-Factors)  
   **Python, pandas, seaborn, scikit-learn, NumPy**  
   • Applied hypothesis testing, correlation, regression, and classification to identify key drivers of YouTube video popularity.  
