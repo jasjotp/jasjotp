@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jasjot Parmar
 
-I'm an aspiring data engineer with hands-on experience in **Python**, **SQL**, **Tableau**, and **PySpark**. Currently, I work as a **Data Analyst in healthcare**, where I support data-driven decision making by building dashboards, cleaning complex datasets, and uncovering insights that improve patient outcomes and operational efficiency.
+I'm an aspiring data engineer with ~2 years of hands-on experience in **Python**, **SQL**, **Tableau**, and **PySpark**. Most recently, I worked as a **Data Analyst in healthcare**, where I supported data-driven decision making by building dashboards, cleaning complex datasets, and uncovering insights that helped physicians improve patient outcomes.
 
 In Fall 2025, I will be starting my **Master of Science in Analytics** at the **Georgia Institute of Technology**, continuing my journey toward becoming a full-fledged data engineer.
 
