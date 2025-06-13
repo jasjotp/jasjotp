@@ -9,7 +9,7 @@ I’m passionate about turning raw data into meaningful action — whether it's 
 
 ### 🔍 Featured Projects
 
-- [📊 Reddit Data Engineering Trends Pipeline](https://github.com/jasjotp/reddit-tldr-dataengineering)  
+- [📊 TL;DR: What's Trending on r/dataengineering?](https://github.com/jasjotp/reddit-tldr-dataengineering)  
   **Python, Apache Airflow, Word2Vec, KMeans, Hugging Face, AWS S3**  
   • Built a daily Airflow ETL pipeline to ingest and process posts from `r/dataengineering`, enabling continuous topic discovery and trend analysis.  
   • Applied Word2Vec, BERTopic, KMeans clustering, and sentiment analysis (DistilBERT) to uncover high-engagement themes and generate post-level recommendations.  
