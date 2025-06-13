@@ -18,7 +18,7 @@ I’m passionate about turning raw data into meaningful action — whether it's 
 - [🧠 Automated Classification and Severity Grading of Lung Cancer](https://github.com/jasjotp/Lung-Cancer-Classification-and-Detection)  
   **Python, PyTorch, OpenCV, scikit-learn**  
   • Improved lung cancer classification accuracy to **95%** by developing a Convolutional Neural Network (CNN) using PyTorch, automating the analysis of microscopic lung tissue images to assist in early cancer detection.  
-  • Engineered a cancer cell detection algorithm using OpenCV, enabling analysis of **1,000+ X-ray images** with **98% accuracy**.
+  • Engineered a cancer cell detection algorithm using OpenCV, enabling analysis of **15,000+ X-ray images** with **95% accuracy**.
 
 - [🛒 Amazon Customer Review Sentiment Analysis](https://github.com/jasjotp/amazon_customer_review_sentiment_analysis)  
   **Python, VADER, DistilBERT, Matplotlib, Seaborn, NLP**  
