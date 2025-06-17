@@ -30,7 +30,7 @@ I’m passionate about turning raw data into meaningful action — whether it's 
 - [📈 YouTube Trending Video Analysis and Predictive Modelling](https://github.com/jasjotp/Predicting-YouTube-TrendingVideo-Factors)  
   **Python, pandas, seaborn, scikit-learn, NumPy**  
   • Applied hypothesis testing, correlation, regression, and classification to identify key drivers of YouTube video popularity.  
-  • Built a Random Forest Classifier (**98.7% accuracy**) to predict how often a video will trend based on features like tags, likes, and comments.
+  • Built a Random Forest Classifier (**95% accuracy**) to predict how often a video will trend based on features like tags, likes, and comments.
 
 - [🌎 World Layoffs Data Analysis](https://github.com/jasjotp/world_layoffs_data_analysis)  
   **SQL, Data Cleaning, Exploratory Data Analysis**  
