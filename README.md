@@ -2,7 +2,7 @@
 
 I'm an aspiring data engineer with ~2 years of hands-on experience in **Python**, **SQL**, **Tableau**, and **PySpark**. Most recently, I worked as a **Data Analyst in healthcare**, where I supported data-driven decision making by building dashboards, cleaning complex datasets, and uncovering insights that helped physicians improve patient outcomes.
 
-In Fall 2025, I will be starting my **Master of Science in Analytics** at the **Georgia Institute of Technology**, continuing my journey toward becoming a full-fledged data engineer.
+In Fall 2025, I will be starting my **Master of Science in Analytics** at the **Georgia Institute of Technology**, continuing my journey toward becoming a full-fledged data engineer or data scientist.
 
 I’m passionate about turning raw data into meaningful action — whether it's optimizing ETL processes, uncovering patterns in complex health data, or predicting real-world outcomes with machine learning.
 
