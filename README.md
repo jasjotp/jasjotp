@@ -9,6 +9,12 @@ I’m passionate about turning raw data into meaningful action — whether it's 
 
 ### 🔍 Featured Projects
 
+- [💸 Anomaly Detection Pipeline for Real-Time Financial Transactions](https://github.com/jasjotp/fraud_detection)  
+  **Python, Apache Kafka, Apache Airflow, XGBoost, MLflow, MinIO**
+  • Developed a real-time fraud detection system that streams live financial transactions using Kafka and schedules daily model retraining via Airflow to catch new fraud patterns automatically.
+  • Engineered 30+ behavioral, temporal, and statistical features, and trained an optimized XGBoost model with SMOTE and randomized search, achieving 98% precision on imbalanced datasets.
+  • Logged model runs, metrics, and artifacts to MLflow and designed modular components for scalable deployment, supporting anomaly detection at production scale.
+  
 - [📊 TL;DR: What's Trending on r/dataengineering?](https://github.com/jasjotp/reddit-tldr-dataengineering)  
   **Python, Apache Airflow, Word2Vec, KMeans, Hugging Face, AWS S3**  
   • Built a daily Airflow ETL pipeline to ingest and process posts from `r/dataengineering`, enabling continuous topic discovery and trend analysis.  
