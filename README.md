@@ -12,7 +12,7 @@ I’m passionate about turning raw data into meaningful action — whether it's 
 - [💸 Anomaly Detection Pipeline for Real-Time Financial Transactions](https://github.com/jasjotp/fraud_detection)  
   **Python, Apache Kafka, Apache Airflow, XGBoost, MLflow, MinIO**
   
-  • Developed a real-time fraud detection system that streams live financial transactions using Kafka and schedules daily model retraining via Airflow to catch new fraud patterns automatically.
+  • Developed a real-time fraud detection system that streams live financial transactions using Kafka and schedules daily model retraining via Airflow to catch new fraud patterns automatically.  
   • Engineered 30+ behavioral, temporal, and statistical features and used SMOTE and Optuna to optimize an XGBoost model, boosting fraud detection recall to 98% on imbalanced data while tracking performance in MLflow.
   • Logged model runs, metrics, and artifacts to MLflow and designed modular components for scalable deployment, supporting anomaly detection at production scale.
 
