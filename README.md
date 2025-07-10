@@ -12,16 +12,16 @@ I’m passionate about turning raw data into meaningful action — whether it's 
 - [💸 Anomaly Detection Pipeline for Real-Time Financial Transactions](https://github.com/jasjotp/fraud_detection)  
   **Python, Apache Kafka, Apache Airflow, XGBoost, MLflow, MinIO**
   
-  - Developed a real-time fraud detection system that streams live financial transactions using Kafka and schedules daily model retraining via Airflow to catch new fraud patterns automatically.  
-  - Engineered 30+ behavioral, temporal, and statistical features and used SMOTE and Optuna to optimize an XGBoost model, boosting fraud detection recall to 98% on imbalanced data while tracking performance in MLflow.
-  - Logged model runs, metrics, and artifacts to MLflow and designed modular components for scalable deployment, supporting anomaly detection at production scale.
+  - Developed a real-time fraud detection system that streams live financial transactions using **Kafka** and schedules daily model retraining via **Airflow** to catch new fraud patterns automatically.  
+  - Engineered **30+** behavioral, temporal, and statistical features and used **SMOTE** and **Optuna** to optimize an **XGBoost** model, boosting fraud detection recall to **98%** on imbalanced data while tracking performance in **MLflow**.
+  - Logged model runs, metrics, and artifacts to **MLflow** and designed modular components for scalable deployment, supporting anomaly detection at production scale.
 
 - [📊 TL;DR: What's Trending on r/dataengineering?](https://github.com/jasjotp/reddit-tldr-dataengineering)  
   **Python, Apache Airflow, Word2Vec, KMeans, Hugging Face, AWS S3**
   
-  - Built a daily Airflow ETL pipeline to ingest and process posts from `r/dataengineering`, enabling continuous topic discovery and trend analysis.  
-  - Applied Word2Vec, BERTopic, KMeans clustering, and sentiment analysis (DistilBERT) to uncover high-engagement themes and generate post-level recommendations.  
-  - Uploaded daily insights, cluster visualizations, and enriched post data to Amazon S3, supporting exploration of trending data engineering discussions.
+  - Built a daily **Airflow data pipeline** to ingest and process posts from `r/dataengineering`, enabling continuous topic discovery and trend analysis.  
+  - Applied **Word2Vec**, **BERTopic**, **KMeans** clustering, and **sentiment analysis** (DistilBERT) to uncover high-engagement themes and generate post-level recommendations.  
+  - Uploaded daily insights, cluster visualizations, and enriched post data to ** Amazon S3**, supporting exploration of trending data engineering discussions.
   
 - [🧠 Automated Classification and Severity Grading of Lung Cancer](https://github.com/jasjotp/Lung-Cancer-Classification-and-Detection)  
   **Python, PyTorch, OpenCV, scikit-learn**
