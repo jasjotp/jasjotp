@@ -22,7 +22,13 @@ I’m passionate about turning raw data into meaningful action — whether it's 
   - Built a daily **Airflow data pipeline** to ingest and process posts from `r/dataengineering`, enabling continuous topic discovery and trend analysis.  
   - Applied **Word2Vec**, **BERTopic**, **KMeans** clustering, and **sentiment analysis** (DistilBERT) to uncover high-engagement themes and generate post-level recommendations.  
   - Uploaded daily insights, cluster visualizations, and enriched post data to ** Amazon S3**, supporting exploration of trending data engineering discussions.
-  
+
+- [🏠 Real Estate Streaming Pipeline](https://github.com/jasjotp/RealEstate_Streaming_Pipeline)  
+  **Python, Spark Structured Streaming, Apache Kafka, Docker Compose, Cassandra, Playwright, OpenAI GPT-4o**
+
+  - Built a real-time data pipeline using **Spark Structured Streaming**, **Apache Kafka**, and **Docker Compose** to scrape and transform property listings from Zoopla, storing structured records in **Cassandra** for downstream querying.
+  - Automated property detail extraction from raw HTML using **Playwright** and **OpenAI GPT-4o**, augmenting listing data with fields like beds, price, and square footage before streaming to **Kafka** for processing.
+
 - [🧠 Automated Classification and Severity Grading of Lung Cancer](https://github.com/jasjotp/Lung-Cancer-Classification-and-Detection)  
   **Python, PyTorch, OpenCV, scikit-learn**
   
