@@ -23,7 +23,7 @@ I’m passionate about turning raw data into meaningful action — whether it's 
   - Applied **Word2Vec**, **BERTopic**, **KMeans** clustering, and **sentiment analysis** (DistilBERT) to uncover high-engagement themes and generate post-level recommendations.  
   - Uploaded daily insights, cluster visualizations, and enriched post data to ** Amazon S3**, supporting exploration of trending data engineering discussions.
 
-- [🏠 Real Estate Streaming Pipeline](https://github.com/jasjotp/RealEstate_Streaming_Pipeline)  
+- [🏠 Real-Time Real Estate Streaming Pipeline](https://github.com/jasjotp/RealEstate_Streaming_Pipeline)  
   **Python, Spark Structured Streaming, Apache Kafka, Docker Compose, Cassandra, Playwright, OpenAI GPT-4o**
 
   - Built a real-time data pipeline using **Spark Structured Streaming**, **Apache Kafka**, and **Docker Compose** to scrape and transform property listings from Zoopla, storing structured records in **Cassandra** for downstream querying.
