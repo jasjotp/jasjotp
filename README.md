@@ -22,7 +22,7 @@ I’m passionate about turning raw data into meaningful action — whether it's 
   - Applied **Word2Vec**, **BERTopic**, **KMeans** clustering, and **sentiment analysis** (DistilBERT) to uncover high-engagement themes and generate post-level recommendations.  
   - Uploaded daily insights, cluster visualizations, and enriched post data to **Amazon S3**, supporting exploration of trending data engineering discussions.
 
-- [🤖 GPT From Scratch on Jensen Huang Transcripts](https://github.com/jasjotp/gpt-from-scratch)  
+- [🤖 Transformer From Scratch Based on “Attention Is All You Need”](https://github.com/jasjotp/gpt-from-scratch)  
   **Python, PyTorch, Transformers, Large Language Modeling**
   
   - Built a **Transformer-based large language model** from scratch in **PyTorch**, implementing masked multi-head attention, positional encoding, and residual connections to generate realistic text sequences in the style of Jensen Huang interviews. 
