@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Jasjot Parmar
 
-I'm a data professional with ~2 years of hands-on experience in **Python**, **SQL**, **Tableau**, and **PySpark**. Most recently, I worked as a **Data Analyst in healthcare**, where I supported data-driven decision making by building dashboards, cleaning complex datasets, and uncovering insights that helped physicians improve patient outcomes.
+I'm a data professional with ~2 years of hands-on experience in **Python**, **SQL**, **Tableau**, and **PySpark**. Most recently, I worked **in healthcare**, where I supported data-driven decision making by building data pipelines, dashboards, cleaning complex datasets, and uncovering insights that helped physicians improve patient outcomes.
 
-I’m passionate about turning raw data into meaningful action — whether it's optimizing ETL processes, uncovering patterns in complex health data, or predicting real-world outcomes with machine learning.
+I’m passionate about turning raw data into meaningful action, whether it's optimizing ETL processes, uncovering patterns in complex health data, or predicting real-world outcomes with machine learning.
 
 
 ### 🔍 Featured Projects
