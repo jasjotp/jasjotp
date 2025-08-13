@@ -28,7 +28,7 @@ I’m passionate about turning raw data into meaningful action, whether it's opt
   - Built a **Transformer-based large language model** from scratch in **PyTorch**, implementing masked multi-head attention, positional encoding, and residual connections to generate realistic text sequences in the style of Jensen Huang interviews. 
   - Developed a training pipeline to process a character-level transcript corpus using tokenization, batching, and cross-entropy loss to predict next token predictions after fine-tuning.
 
-- [🤖 Icebreaker AI Agent](https://github.com/jasjotp/icebreaker)  
+- [🤖 LinkedIn Icebreaker AI Agent](https://github.com/jasjotp/icebreaker)  
   **Python, Flask, LangChain ReAct Agents, GPT-4o, Tavily Search API, Scrapin.io, Vercel**
   
   - Built and deployed an AI-powered networking assistant using Python, Flask, LangChain ReAct Agents, and GPT-4o, enabling users to generate personalized LinkedIn ice breakers in under 15 seconds to boost outreach response rates. 
